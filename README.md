@@ -1,6 +1,16 @@
 <h2 align="center"> Hey, Eu sou o <strong><em> Danilo Henrique </em></strong> 👋🏻✌🏻 Seja Bem Vindo(a) ! </h2>
 </br>
 
+<div>
+ 
+<p> 📓  Sou Estudante de programação nas plataformas: DevMedia e Rocketseat. </p>
+<p> ✔   Tecnologias que almejo estudar em 2022: ReactJS, React Native e NodeJS. </p>
+<p> 💼  Meu objetivo na programação é trabalhar em uma empresa internacional. </p>
+   
+</div>
+
+</br>
+
 <div align="center">
   <a href="https://github.com/daniloohenriquee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloohenriquee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,3 +43,5 @@
   ![Snake animation](https://github.com/daniloohenriquee/daniloohenriquee/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+
