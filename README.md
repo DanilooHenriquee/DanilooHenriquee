@@ -4,7 +4,6 @@
 <div>
  
 <p> 📓  Sou Estudante de programação na plataformas da Rocketseat. </p>
-<p> ✔   Tecnologias que almejo estudar em 2022: ReactJS, React Native e NodeJS. </p>
 <p> 💼  Meu objetivo na programação é trabalhar em uma empresa internacional. </p>
    
 </div>
